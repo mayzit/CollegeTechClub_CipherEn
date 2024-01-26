@@ -48,7 +48,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - @abhi.tondarkar - tondarkarabhi7@gmail.com
+Your Name - @mayursarak - mayurvijaysarak@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
